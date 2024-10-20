@@ -1,4 +1,3 @@
-# CRCP 3320 Personal Page 
+# About Me
 
-Personal site for Cameron Tofani Fall 2024.
-I am a Junior at SMU studying Computer Science and Data Science. 
+I am a Junior at SMU studying Computer Science and Data Science! I hope to work in aritificial intelligence or game development one day. 

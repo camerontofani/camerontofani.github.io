@@ -1,6 +1,6 @@
 # this is the github pages configuration file 
-tile: CRCP 3320 Personal Site 
-description: Personal Page for Cameron Tofani Fall2024
+tile: Cameron Tofani CRCP 3320 
+description: Personal Page for Fall 2024 
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
