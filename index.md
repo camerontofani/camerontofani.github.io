@@ -1,3 +1,4 @@
-# CRCP 3320 Cameron Tofani Personal Page 
+# CRCP 3320 Personal Page 
 
-Personal site for CRCP 3320. 
+Personal site for Cameron Tofani Fall 2024.
+I am a Junior at SMU studying Computer Science and Data Science. 
